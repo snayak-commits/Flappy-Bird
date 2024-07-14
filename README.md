@@ -6,7 +6,7 @@ To run the game locally, follow these steps: <br>
   
   Clone this repository to your local machine:
       
-    git clone https://github.com/traxx4real/Flappy-Bird.git
+    git clone https://github.com/snayak-commits/Flappy-Bird.git
 
   Run the game by clicking `bird.exe`.
 
